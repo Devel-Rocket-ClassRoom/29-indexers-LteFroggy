@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="CodingPractice\CodingPractice.csproj" />
+  <Project Path="FruitPriceList\FruitPriceList.csproj" />
+  <Project Path="ScoreBoard\ScoreBoard.csproj" />
+</Solution>
